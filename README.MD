@@ -32,8 +32,8 @@ playwright install-deps
 
 ### 提取代码
 ```
-git config --global user.name "huangp"
-git config --global user.email "huangp@huangp.com"
+git config --global user.name "paulwong888"
+git config --global user.email "paulwong888@163.com"
 
 ```
 
