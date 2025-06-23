@@ -1,0 +1,12 @@
+python-dotenv
+gradio
+requests
+autogen-agentchat
+# playwright
+# playwright install
+# autogen-ext[openai]
+# mcp-server-fetch
+# autogen-ext[mcp]
+# autogen-ext[web-surfer]
+# uvx
+# autogenstudio
