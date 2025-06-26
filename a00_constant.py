@@ -4,10 +4,12 @@ from dotenv import load_dotenv
 from autogen_core.models import ModelFamily
 from autogen_ext.models.openai import OpenAIChatCompletionClient
 
-env_openai_file_path = "/root/autodl-fs/paul/config/.env"
-env_deepseek_file_path = "/root/autodl-fs/paul/config/.env"
+# env_openai_file_path = "/root/autodl-fs/paul/config/.env"
+# env_deepseek_file_path = "/root/autodl-fs/paul/config/.env"
 # env_openai_file_path = "/home/paul/config/.env-deepseek"
 # env_deepseek_file_path = "/home/paul/config/.env-deepseek"
+env_openai_file_path = "/home/coder/config/.env"
+env_deepseek_file_path = env_openai_file_path
 
 llm_model = "deepseek-chat"
 # ali_llm_model = "qwq-plus"
